@@ -1,0 +1,9 @@
+I forked the repository from the original source by clicking on the "Fork" button on the repository's GitHub page. This created a copy of the repository in mypersonal GitHub account.
+
+After forking, I cloned the repository to my local machine using the following steps:
+1. I copied the HTTPS link of my forked repository from the GitHub page.
+2. I opened my terminal and navigated to the desired folder where I wanted to save the repository.
+3. I used the following command to clone the repository:
+   git clone https://github.com/Med-Barkaoui/Task1.git
+
+This allowed me to work with the repository locally and make changes.
